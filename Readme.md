@@ -32,10 +32,11 @@ This pattern shows a clear dominance of cola-based and mainstream carbonated dri
 
 
 At the lower end of visibility: **Schweppes (129) and Mirinda (123)** have modest presence, likely due to niche demand or limited placement in smaller outlets. **RC Cola (90) and Fayrouz (30)** appear infrequently, signaling weak retail penetration. **Mountain Dew (9)** has the lowest visibility, showing extremely limited market reach.
-The least 5 **(collectively <10%)** consists largely of specialty drinks, mixers, or secondary cola brands which struggle in an environment dominated by high-turnover mainstream soft drinks. This Low visibility may reflect limited distribution agreements, lower demand, or a strategic focus on specific outlet types that are underrepresented in the sample.
+The least 5 **(collectively ~6%)** consists largely of specialty drinks, mixers, or secondary cola brands which struggle in an environment dominated by high-turnover mainstream soft drinks. This Low visibility may reflect limited distribution agreements, lower demand, or a strategic focus on specific outlet types that are underrepresented in the sample.
 
 
 ![PACKAGE](Imgs/package.PNG)
+
 The packaging landscape is clearly dominated by **PET bottles, which account for 76%**  of all soft drink packaging formats observed. This dominance reflects the practicality, affordability, and widespread acceptance of PET bottles across informal retail environments such as small shops, kiosks, and open market stalls—which make up the bulk of outlets in Alimosho. PET bottles also align well with consumer preferences for resealable, portable containers suited to on-the-go consumption.
 
 **Glass bottles represent 20.5%** of packaging, indicating a strong presence but one likely concentrated in outlets where bottle return systems are common, such as neighborhood shops and restaurants. Their share suggests that refillable glass formats are still relevant, especially for legacy brands with established return logistics.
@@ -45,10 +46,14 @@ The “Others” category at 0.1% confirms that alternative packaging formats ar
 
 ![STOCK](Imgs/stock.PNG)
 
+The stock distribution shows that most outlets maintain healthy but not excessive inventory, **with 43% being partially stocked and 40% classified as well stocked**. This balance shows that retailers are actively managing stock turnover by keeping shelves replenished without over-investing in slow-moving items. It also indicates that soft drinks have consistent demand, allowing retailers to hold enough inventory for daily sales without significant risk of waste or expiry.
+
+The **15% of outlets in the reorder** category reveals a sizable segment approaching the point of replenishment. This can be interpreted as either strong product movement or delays in the supply cycle. For distributors, improving delivery frequency or automating reorder triggers could convert these outlets into consistently well-stocked locations, thereby ensuring that these outlets remain fully stocked, improving availability and potentially increasing sales velocity.
+
+Only **2% are out of stock**, showing that product availability across the area is generally strong. This low rate of stockouts indicates reliable supply chains, effective distributor presence, and retailers prioritizing soft drinks due to their high turnover.
+
 ### Dashboard View
 
 ![DASHBOARD](Imgs/Dashboard.PNG)
 
 [power bi dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTY1M2U1MDktZWM5ZC00ZjI1LTlkZmQtMDk3ZGEyYzI1NjZlIiwidCI6IjczMDc4ZWNkLWYzM2UtNDQxYy05ODYyLWVhZDdjNjFhNGU4MiJ9)
-
-## Recommendations
